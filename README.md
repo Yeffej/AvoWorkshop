@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
@@ -69,3 +70,7 @@ Your app is ready to be deployed!
 ### Q: What about Eject?
 
 No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+=======
+# AvoWorkshop
+AvoWorkshop  is a shop of avocodados online (only for the purpose of practice). it´s made with snowPack, tailwind CSS y javascript
+>>>>>>> b23f1a53594ded372be9d44af1200c1b0a30e9e3
